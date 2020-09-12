@@ -1,4 +1,0 @@
-
-
-cd C:\Users\nmapari\Desktop\DecryptPluralSightVideos_v1.3>
-DecryptPluralSightVideos /F "C:\Users\nmapari\AppData\Local\Pluralsight\courses" /DB "C:\Users\nmapari\AppData\Local\Pluralsight\pluralsight.db" /TRANS /OUT "C:\NasirPluralsightCourses"
